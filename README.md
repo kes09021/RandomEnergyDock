@@ -45,4 +45,4 @@ python visualize_energy_pymol.py <protein PDB file path> <PDBQT file path/dockin
 The following image is an example of a protein-ligand docking visualization created by this tool. The red dots represent regions where the binding free energy is stable, indicating potential binding sites.
 
 
-![Protein-Ligand Docking Visualization](path/to/image.png)
+![Protein-Ligand Docking Visualization](image.png)
