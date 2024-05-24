@@ -1,6 +1,6 @@
 # Random Energy Dock
 
-This repository contains various scripts for protein and ligand docking.
+A repository for visualizing the free energy landscape after randomly docking ligands to proteins.
 
 
 
